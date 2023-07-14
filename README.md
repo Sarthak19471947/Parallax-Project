@@ -1,1 +1,1 @@
-# Weather-App
+# Parallax Project
